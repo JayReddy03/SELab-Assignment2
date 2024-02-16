@@ -163,5 +163,5 @@ int main()
 {
     int n;
     cin >> n;
-    cout << countZeros(n) << endl;
+    cout << geometricSum(n) << endl;
 }
